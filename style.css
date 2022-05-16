@@ -1,3 +1,5 @@
+
+/* CSS for all */
 *{
     margin: 0;
     padding: 0;
@@ -8,4 +10,22 @@
     border: 1px solid red;
     margin: 0 auto;
     padding: 1%;
+}
+
+.img-responsive {
+    width: 100%
+}
+.text-right {
+    text-align: right;
+}
+
+/* CSS for navbar section */
+
+.logo {
+    border: 1px solid black;
+    width: 10%;
+}
+
+.menu ul {
+    list-style-type: none;
 }
