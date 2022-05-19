@@ -23,6 +23,16 @@
     clear: both;
     float: none;
 }
+
+a{
+    color: #ff6b81;
+    text-decoration: none;
+}
+
+a:hoover {
+    color: #ff4757;
+}
+
 /* CSS for navbar section */
 
 .logo {
@@ -30,6 +40,10 @@
     width: 10%;
     float: left;
 }
+.menu {
+    line-height:60px
+}
+
 .img-responsive {
         width: 100%;
 }
@@ -37,6 +51,14 @@
 .menu ul {
     list-style-type: none;
 }
+
+    
 .menu ul li {
     display: inline;
+    padding: 1%;
+    font-weight: bold;
 }
+
+
+
+
