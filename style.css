@@ -19,13 +19,24 @@
     text-align: right;
 }
 
+.clearfix{
+    clear: both;
+    float: none;
+}
 /* CSS for navbar section */
 
 .logo {
     border: 1px solid black;
     width: 10%;
+    float: left;
+}
+.img-responsive {
+        width: 100%;
 }
 
 .menu ul {
     list-style-type: none;
+}
+.menu ul li {
+    display: inline;
 }
