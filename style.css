@@ -19,6 +19,7 @@
     text-align: right;
 }
 
+text-center
 .clearfix{
     clear: both;
     float: none;
@@ -57,6 +58,16 @@ a:hoover {
     display: inline;
     padding: 1%;
     font-weight: bold;
+}
+
+/* CSS for food search section */
+
+.food-search {
+    background-image: url(../restaurant/images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 7% 0;
+    background-position: center;
 }
 
 
