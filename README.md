@@ -15,3 +15,6 @@ The next three pictures just show the progression of the app and how sticking to
  
  Ive added some CSS and moved my menu bar into place with a little bit of color.
  ![Screenshot (19)](https://user-images.githubusercontent.com/99539947/169224393-d50056da-dfb9-4ba2-abc5-58dd13f4f690.png)
+ 
+ Updated image of how menu bar and food search section is comming together. 
+ ![Screenshot (21)](https://user-images.githubusercontent.com/99539947/169426529-527cd754-e54a-4fcd-8997-cbb26914ebad.png)
